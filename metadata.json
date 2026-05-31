@@ -1,0 +1,6 @@
+{
+  "name": "R97 Voice AI",
+  "description": "An advanced AI assistant powered by NVIDIA and Gemini, featuring real-time emotional voice calls and smart interactions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
