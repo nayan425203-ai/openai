@@ -44,7 +44,7 @@
 
 **R97** was developed by **Nayan Patil**.
 - **GitHub**: [nayanpatil](https://github.com/nayanpatil)
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/rehan-ahmad-863386382?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Instagram**: [nayan_patil_4747](https://instagram.com/nayan_patil_4747)
 
 ---
 

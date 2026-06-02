@@ -973,12 +973,12 @@ export default function App() {
                     </p>
                     <div className="flex flex-wrap gap-2.5 pt-1">
                       <a
-                        href="https://www.linkedin.com/in/rehan-ahmad-863386382?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+                        href="https://instagram.com/nayan_patil_4747"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 text-xs text-blue-700 hover:text-blue-900 font-bold hover:underline"
+                        className="inline-flex items-center gap-1.5 text-xs text-pink-600 hover:text-pink-800 font-bold hover:underline"
                       >
-                        LinkedIn Profile
+                        Instagram Profile
                       </a>
                       <span className="text-gray-300">|</span>
                       <a
